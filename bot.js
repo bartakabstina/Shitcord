@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 // Configuration
 const prefix = "$";
-const owner_ids = ["218668172004294657"];
+const owner_ids = ["210706974554193921"];
 
 function isOwner(id) {
     for(var i of owner_ids) {
